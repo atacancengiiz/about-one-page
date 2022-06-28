@@ -7,4 +7,4 @@
 **Proje HTML & CSS ile yazılmıitır. Küçük bir hakkımda sayfası. içerisinde Github, İnstagram ekliye bileceğiniz bir alanlar bulunmakta.**
 
 ### 🔔 Bilgi;
-__Tasarım__
+_Tasarım_
