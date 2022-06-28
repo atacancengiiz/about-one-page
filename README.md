@@ -7,7 +7,7 @@
 **Proje HTML & CSS ile yazılmıitır. Küçük bir hakkımda sayfası. içerisinde Github, İnstagram ekliye bileceğiniz bir alanlar bulunmakta.**
 
 ### 📚 Yakında Eklenicekler;
-## 1.) Aydınlık
+*-* Karanlık & Aydınlık Mod
 
 ### 🔔 Bilgi;
 _Kodlarda hata olabilir onun için özür dileriz. Yakın zamanda Clean Code olarak tekrar paylaşılıcaktır._
