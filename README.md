@@ -5,3 +5,6 @@
 
 # 📌 Özet;
 **Proje HTML & CSS ile yazılmıitır. Küçük bir hakkımda sayfası. içerisinde Github, İnstagram ekliye bileceğiniz bir alanlar bulunmakta.**
+
+
+###### [İleriki zamanlarda oluşucak tasarım]([https://atacancengiz.com](https://www.hizliresim.com/ts5djtq))
