@@ -1,6 +1,6 @@
 ## 🎩 Geliştirici(ler);
 
-[Tasarımcı](https://kaanymz.com)
+[Tasarım: Kaan Yılmaz](https://kaanymz.com)
 
 # 📌 Özet;
 **Proje HTML & CSS ile yazılmış bulunmakta**
