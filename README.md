@@ -1,6 +1,6 @@
 ## 🎩 Geliştirici(ler);
 
-[Yazı içi linkiyim](https://www.google.com)
+[Tasarımcı](https://kaanymz.com)
 
 # 📌 Özet;
 **Proje HTML & CSS ile yazılmış bulunmakta**
